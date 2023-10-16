@@ -32,16 +32,14 @@ body {
   height: unset !important;
 }
 
-/* Font size for screens that are 768px wide or less */
 @media screen and (max-width: 768px) {
   html {
-    font-size: 50%; /* 8px */
+    font-size: 50%; 
   }
 }
 
-/* Font size for screens that are 480px wide or less */
 @media screen and (max-width: 480px) {
   html {
-    font-size: 40%; /* 6.4px */
+    font-size: 40%; 
   }
 }
